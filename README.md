@@ -1,3 +1,3 @@
 # nishacollege-demo
-first git repository
-nisha shaik author
+first git repository.
+author nisha shaik 
