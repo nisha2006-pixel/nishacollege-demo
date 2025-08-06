@@ -1,4 +1,4 @@
-# nishacollege-demo
-first git repository.
-<br>
-author nisha shaik 
+#nishacollege-demo
+ This is my first git repository.
+
+author nisha shaik (nisha college)
